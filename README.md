@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 Estagiaria nas horas vagas
-- 🌱 estudante de Ciência da Computação
+- 🔭 Estagiaria nas horas vagas.
+- 🌱 Estudante de Ciência da Computação.
+- 😁 Sempre em busca de novas aventuras.
 
 
 ## Oiii eu sou a JennifferGS!
